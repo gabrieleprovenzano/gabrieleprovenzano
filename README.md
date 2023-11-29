@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gabriele-provenzano-5b32631b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gabriele-provenzano-5b32631b7/">
 
 </p>
 
