@@ -34,19 +34,6 @@
 <hr>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gabriele-provenzano-5b32631b7/">
-
-</p>
-
-
-<hr>
 
 
